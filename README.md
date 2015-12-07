@@ -26,7 +26,7 @@ These are the files/folders that came with the project which I have not edited:
 
 * **js/app.js**: main JavaScript file
 
-* **jasmine/lib/jasmine-2.1.2/\***: files for Jasmine to work
+* **jasmine/lib/jasmine-2.1.2/***: files for Jasmine to work
 
 * **css/\*:** css styles this page
 
